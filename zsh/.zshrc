@@ -41,8 +41,20 @@ source <(podman completion zsh)
 
 source <(gitops completion zsh)
 
-source <(istioctl completion zsh)
+source <(istioctl completion zsh)ls
 
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-alias ls="ls --color=always"
+source <(fzf --zsh)
+
+source $HOME/.config/history-window.zsh 
+
+source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+source "$HOME/.config/history.zsh"
+
+source "$HOME/.config/aliases.zsh"
+
+source "$HOME/.config/interactive-plugin.zsh"
+
+source "$HOME/.config/command-not-found.zsh"

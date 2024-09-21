@@ -1,0 +1,5 @@
+https://github.com/zsh-users/zsh-autosuggestions
+https://github.com/ahmetb/kubectx
+https://github.com/zsh-users/zsh-history-substring-search
+https://github.com/junegunn/fzf
+https://github.com/Homebrew/homebrew-command-not-found
