@@ -4,6 +4,7 @@
 #This file must be in $HOME/.config/starship.toml
 # After add the following code in $HOME/.zshrc
 # eval "$(starship init zsh)"
+# You can find emoji here https://emojipedia.org/baby-bottle
 #####
 
 "$schema" = 'https://starship.rs/config-schema.json'
