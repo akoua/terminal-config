@@ -26,6 +26,14 @@ vimcmd_symbol = "[❮](yellow)"
 [line_break]
 disabled = false
 
+[git_branch]
+format = 'on [$symbol$branch(:$remote_branch)]($style) '
+style = 'bold purple'
+symbol = '🌱 '
+truncation_length = 8
+truncation_symbol = '...'
+ignore_branches = []
+
 [username]
 style_user = 'yellow bold'
 style_root = 'red bold'
