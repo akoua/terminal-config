@@ -58,3 +58,5 @@ source "$HOME/.config/aliases.zsh"
 source "$HOME/.config/interactive-plugin.zsh"
 
 source "$HOME/.config/command-not-found.zsh"
+
+source "$HOME/.config/process-killer.zsh"
