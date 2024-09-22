@@ -45,7 +45,7 @@ source <(istioctl completion zsh)ls
 
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-#source <(fzf --zsh)
+source <(fzf --zsh)
 
 source $HOME/.config/history-window.zsh 
 
