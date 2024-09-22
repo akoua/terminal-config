@@ -1,7 +1,7 @@
 # Get editor completions based on the config schema
 
 #####
-#This file must be in $HOME/.config/starship.toml
+# This file must be in $HOME/.config/starship.toml
 # After add the following code in $HOME/.zshrc
 # eval "$(starship init zsh)"
 # You can find emoji here https://emojipedia.org/baby-bottle
