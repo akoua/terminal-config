@@ -8,7 +8,7 @@
 #####
 
 # Sets user-defined palette
-palette = "palettes.catppuccin_mocha"
+#palette = "catppuccin_mocha"
 
 format = '''
 $java$git_state$git_branch $git_commit$git_status$gti_metrics$fill$time
@@ -20,6 +20,7 @@ $directory$character
 style = 'bold surface0'
 
 # Inserts a blank line between shell prompts
+[line_break]
 add_newline = true
 
 [cmd_duration]
@@ -43,9 +44,6 @@ use_12hr = false
 success_symbol = "[❯](green)"
 error_symbol = "[❯](red)"
 vimcmd_symbol = "[❮](yellow)"
-
-[line_break]
-disabled = false
 
 [directory]
 truncation_length = 3
