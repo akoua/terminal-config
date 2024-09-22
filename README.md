@@ -1,5 +1,5 @@
 # terminal-config
-Ce projet comporte toutes les configurations de mon terminal
+Ce projet comporte toutes les configurations de mon terminal (zsh). Mais il est facilement adapatable.
 
 # Recherche dans l'historique
 Il faut taper la commande ctrl+R. On peut même commencer à taper ce qu'on voudrait et par la suite jouer la commande.
